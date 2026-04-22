@@ -31,4 +31,6 @@ This project implements a normalized database (up to 3NF) for an E-learning plat
 ## 👥 Team Members
 
 * Sneha Singh
-* Add others
+* Sudhanshu Sharma
+* Md. Anas
+* Ayush Kumar
